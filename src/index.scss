@@ -1,0 +1,21 @@
+*{
+  font-weight: normal;
+}
+
+.App {
+  width:70%;
+  margin: 5% auto;
+
+
+  textarea{
+    width:45%;
+    float:left;
+    height: 400px;
+    padding:20px;
+    font-size: 20px
+  }
+  .show{
+    float: right;
+    width:45%
+  }
+}
